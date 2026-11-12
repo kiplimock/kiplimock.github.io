@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiplimock.github.io/sitemap.xml
